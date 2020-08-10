@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stings8)](https://github.com/stings8/github-readme-stats)
+
+- Compact layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stings8&layout=compact)](https://github.com/stings8/github-readme-stats)
+
+---

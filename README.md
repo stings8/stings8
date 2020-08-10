@@ -1,7 +1,7 @@
 
 
 
-<h1 align='center'> Hi there 👋 , I am <a href="https://github.com/stings8">Sting</a>💻 </h1>
+<h1 align='center'> Hi there 👋 , I am <a href="https://github.com/stings8">Sting </a>💻 </h1>
 
 <p align='center'>
   I live on Fortaleza, Brazil and work at <b>Infarma</b> 

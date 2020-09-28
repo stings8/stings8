@@ -4,7 +4,7 @@
 <h1 align='center'> Hi there 👋 , I am <a href="https://github.com/stings8">Sting </a>💻 </h1>
 
 <p align='center'>
-  I live on Fortaleza, Brazil and work at <b>Infarma</b> 
+  I live on Quixadá, Brazil and work at <b><a href="https://github.com/InsightLab">Insight Lab.</a></b> 
 </p>
 
 <p align='center'> 
